@@ -1,22 +1,10 @@
-- [中文](README.md)
-- [English](README_EN.md)
+Fork of the ZMK Eyelash firmware most aliexpress sellers use, just with my own keymap. Feel free to grab if you want my layout for some reason - pictured below.
 
-# 更新列表
-  
-- 2024/12/21
-  
-- 2024/10/24
-  1. 修改供电模式，功耗降低。
-  2. 修正RGB供电自动关闭的功能。
+If you want to flash it, grab the firmware files from the latest build in the "Actions" tab. For each side, plug the side into USB and double tap the button on the back of the board. You should have a USB drive that is the keyboard connect. For both, copy over the "settings_reset" file - once it loads the USB drive will go away. Double tap the button again.
+For the left side, paste in eyelash_sofle_studio_left.uf2. For the right, paste in nice_view_custom-eyelash_sofle_right-zmk.uf2.
 
-> 如果您的键盘于10月24日之前更新，请更新最新的固件。
-> 
----
-# 联系我
+If you flash your device you do so at your own risk. Make sure you have backup firmware in case this is not compatible with your board. 
 
-如需3D打印的模型文件或者键盘有任何异常和故障，请联系380465425@qq.com
-
-# Sofle键位图
-
+# Sofle Keymap
 <img src="keymap-drawer/eyelash_sofle.svg" >
 
