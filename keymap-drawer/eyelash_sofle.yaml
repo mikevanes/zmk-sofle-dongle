@@ -154,7 +154,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:arrow-up-bold$$
-  - F12
+  - EP TOG
   - _
   - +
   - {t: '$$mdi:transfer$$', type: trans}
